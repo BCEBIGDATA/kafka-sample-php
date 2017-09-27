@@ -1,4 +1,4 @@
-# 百度Kafka服务PHP样例
+# 百度消息服务PHP样例
 
 百度Kafka是托管的Kafka消息服务。完全兼容开源Kafka。本样例展示如何使用[php-rdkafka](https://github.com/arnaud-lb/php-rdkafka)客户端访问百度Kafka服务。
 
